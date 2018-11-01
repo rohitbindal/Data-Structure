@@ -1,0 +1,3 @@
+C:/DATA/Docs/C++ Programs/Queue/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DATA/Docs/C++ Programs/Queue/cmake-build-debug/CMakeFiles/Queue.dir
+C:/DATA/Docs/C++ Programs/Queue/cmake-build-debug/CMakeFiles/rebuild_cache.dir
