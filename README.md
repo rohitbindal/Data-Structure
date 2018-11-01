@@ -4,4 +4,4 @@ The programs include:
 2. Stack
 3. Queue
 4. Tree
-5. Sorting Algorithms (Bubble Sort, Selection Sort, Insertion Sort)
+5. Sorting Algorithms (Bubble Sort, Selection Sort)
