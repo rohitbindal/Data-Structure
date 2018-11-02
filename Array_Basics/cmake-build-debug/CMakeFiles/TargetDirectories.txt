@@ -1,0 +1,3 @@
+C:/DATA/Docs/C++ Programs/Array_Basics/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/DATA/Docs/C++ Programs/Array_Basics/cmake-build-debug/CMakeFiles/Array_Basics.dir
+C:/DATA/Docs/C++ Programs/Array_Basics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
