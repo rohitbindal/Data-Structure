@@ -1,3 +1,7 @@
+/*-------------------------------
+Author - Rohit Kumar Bindal
+Roll Number - 2017Btechcse306
+------------------------------*/
 #include <stdio.h>
 
 void number(int a[], int size){

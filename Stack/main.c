@@ -1,3 +1,8 @@
+/*-------------------------------
+Author - Rohit Kumar Bindal
+Roll Number - 2017Btechcse306
+------------------------------*/
+
 #include <stdio.h>
 #define MAX 5
 int stack[MAX];
